@@ -1,0 +1,75 @@
+#root {
+  text-align: center;
+}
+
+.btn-green {
+  background-color: #23967f;
+  border: none;
+  color: white;
+  opacity: 0.8;
+  transition: opacity 200ms ease;
+}
+
+.btn-green:hover {
+  background-color: #23967f;
+  color: white;
+  opacity: 1;
+}
+
+.btn-red {
+  background-color: #d64550;
+  border: none;
+  color: white;
+  opacity: 0.8;
+  transition: opacity 200ms ease;
+}
+
+.btn-red:hover {
+  background-color: #d64550;
+  color: white;
+  opacity: 1;
+}
+
+.btn-yellow {
+  background-color: #edae49;
+  border: none;
+  color: white;
+  opacity: 0.8;
+  transition: opacity 200ms ease;
+}
+
+.btn-yellow:hover {
+  background-color: #edae49;
+  color: white;
+  opacity: 1;
+}
+
+.btn-purple {
+  background-color: #6c63ff;
+  border: none;
+  color: white;
+  opacity: 0.8;
+  transition: opacity 200ms ease;
+}
+
+.btn-purple:hover {
+  background-color: #6c63ff;
+  color: white;
+  opacity: 1;
+}
+
+.bg-purple {
+  background-color: #6c63ff;
+}
+
+.bg-yellow {
+  background-color: #edae49;
+}
+
+.text-yellow {
+  color: #edae49;
+}
+
+.text-red {
+  color: #d64550;
+}

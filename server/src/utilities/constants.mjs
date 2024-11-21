@@ -1,0 +1,13 @@
+const USER_ROLE = {
+  ADMIN: 'ADMIN',
+  MEMBER: 'MEMBER',
+};
+
+const NUM_PHASES = 3;
+
+const MIN_SCORE = 1;
+const MAX_SCORE = 3;
+
+const MAX_PROPOSALS = 3;
+
+export { USER_ROLE, NUM_PHASES, MIN_SCORE, MAX_SCORE, MAX_PROPOSALS };
